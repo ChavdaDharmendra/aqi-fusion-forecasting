@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+lightgbm
+shap
+statsmodels
+matplotlib
+requests
+# optional, only for the GRU cell
+# torch
